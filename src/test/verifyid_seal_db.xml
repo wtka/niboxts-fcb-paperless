@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><root><error name="Basic">00000000</error>
+<error name="Message">登入成功</error>
+<UID name="Basic">SUPER</UID>
+<UALLOWED name="Basic">USRC3USRC2USRC1</UALLOWED>
+<UALLOWEDSEAL name="Basic">UU</UALLOWEDSEAL>
+<UCONTROL name="Basic"></UCONTROL>
+<UREL name="Basic"></UREL>
+<UMACRO name="Basic"></UMACRO>
+<UDATE name="Basic"></UDATE>
+<USTATUS name="Basic"></USTATUS>
+<BUSINESSCODE name="Basic"></BUSINESSCODE>
+<BUSINESSCODE1 name="Basic"></BUSINESSCODE1>
+<BUSINESSCODE2 name="Basic"></BUSINESSCODE2>
+<BUSINESSCODERQ name="Basic"></BUSINESSCODERQ>
+<SEALCODE name="Basic"></SEALCODE>
+<SEALCODE1 name="Basic"></SEALCODE1>
+<SEALCODE2 name="Basic"></SEALCODE2>
+<COMPANYCODE name="Basic"></COMPANYCODE>
+<COMPANYCODE1 name="Basic"></COMPANYCODE1>
+<ALLCOMPANY name="Basic">001:台北</ALLCOMPANY>
+<UNAME name="Basic">SUPER</UNAME>
+<UGROUP name="Basic">系統管理員</UGROUP>
+<USERTYPE name="Basic"></USERTYPE>
+
+<userconfigfile name="Basic"></userconfigfile>
+<branchip name="Basic"></branchip>
+<InternationalCurrency name="Basic"></InternationalCurrency>
+<RejectCode1 name="Basic"></RejectCode1>
+<SealErrorCode name="Basic"></SealErrorCode>
+<AccountType name="Basic"></AccountType>
+<niChkTokenCode name="Basic"></niChkTokenCode>
+<CoID name="Basic">富邦銀行</CoID>
+<CoName name="Basic">富邦銀行</CoName>
+<nAcc name="Basic">5</nAcc>
+<nBranch name="Basic">3</nBranch>
+<nCheck name="Basic">1</nCheck>
+<nExt name="Basic">0</nExt>
+<nFullLen name="Basic">12</nFullLen>
+<nSubj name="Basic">3</nSubj>
+<ConfirmStatus name="Basic"></ConfirmStatus>
+<zone name="Basic"></zone>
+<allowkeyinbrnach name="Basic"></allowkeyinbrnach>
+<refrence name="Basic">1</refrence>
+<ISF name="Basic">0</ISF>
+<OCRF name="Basic">0</OCRF>
+<SSOF name="Basic">0</SSOF>
+<TICKET name="Basic">super20220720062006Z146359</TICKET>
+<ISUBJECT name="Basic"></ISUBJECT>
+<ESUBJECT name="Basic"></ESUBJECT>
+<IISU name="Basic"></IISU>
+<EISU name="Basic"></EISU>
+<IRS name="Basic"></IRS>
+<ERS name="Basic"></ERS>
+<IPCheck name="Basic"></IPCheck>
+<CCT name="Basic"></CCT>
+<UCT name="Basic"></UCT>
+<DCT name="Basic"></DCT>
+
+<phraseData name="Basic"></phraseData>
+<Ticket name="Basic">super20220720062006Z146359</Ticket>
+
+<maxadvcon name="Basic">10</maxadvcon>
+<presetcontent name="Basic">1a1b1c1d1e1f1g1h1i1j1k1l1m1n1o1p1q1r1s1t1u1v1w1x1y1z2a2b2c2d2e2f2g2h2i2j2k2l2m2n2o2p2q2r2s2t2u2v2w2x2y2z</presetcontent>
+
+</root>

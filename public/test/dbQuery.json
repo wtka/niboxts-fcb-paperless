@@ -1,0 +1,62 @@
+{
+    "error": [
+        {
+            "Code": "00000000",
+            "Message": "成功",
+            "Count": "5",
+            "totalpage": "1"
+        }	
+    ],
+    "data": [
+        {
+            "code": "001",
+            "name": "095-100",
+            "YearS": "95",
+            "datasourcename": "NewImage1",
+            "encdatapath": "D:/nibox/jboss/server/default/conf/Enc_NDOC_NI095.properties",
+            "dbconfigpath": "D:/nibox/jboss/server/default/conf/JDBC_NDOC_NI095.properties",
+            "YearE": "100",
+            "nistatus": "4    "
+        },
+        {
+            "code": "002",
+            "name": "100-105",
+            "YearS": "101",
+            "datasourcename": "NewImage2",
+            "encdatapath": "D:/nibox/jboss/server/default/conf/Enc_NDOC_NI101.properties",
+            "dbconfigpath": "D:/nibox/jboss/server/default/conf/JDBC_NDOC_NI101.properties",
+            "YearE": "105",
+            "nistatus": "4    "
+        },
+        {
+            "code": "003",
+            "name": "106-110",
+            "YearS": "106",
+            "datasourcename": "NewImage3",
+            "encdatapath": "D:/nibox/jboss/server/default/conf/Enc_NDOC_NI106.properties",
+            "dbconfigpath": "D:/nibox/jboss/server/default/conf/JDBC_NDOC_NI106.properties",
+            "YearE": "110",
+            "nistatus": "3    "
+        },
+        {
+            "code": "004",
+            "name": "111-115",
+            "YearS": "111",
+            "datasourcename": "NewImage4",
+            "encdatapath": "D:/nibox/jboss/server/default/conf/Enc_NDOC_NI111.properties",
+            "dbconfigpath": "D:/nibox/jboss/server/default/conf/JDBC_NDOC_NI111.properties",
+            "YearE": "115",
+            "nistatus": "2    "
+        },
+        {
+            "code": "005",
+            "name": "主系統",
+            "YearS": "",
+            "datasourcename": "NewImage",
+            "encdatapath": "D:/nibox/jboss/server/default/conf/Enc_NDOC.properties",
+            "dbconfigpath": "D:/nibox/jboss/server/default/conf/JDBC_NDOC.properties",
+            "YearE": "",
+            "nistatus": "1    "
+        }	
+    ]
+}

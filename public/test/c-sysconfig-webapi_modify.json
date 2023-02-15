@@ -1,0 +1,4 @@
+{ "sysconfig":
+    [{"nitypename":"SSOPd_error","Code": "00000001", "Message":"成功"},
+    {"nitypename":"idmask_error","Code": "00000000", "Message":"成功"}]
+}

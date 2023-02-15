@@ -1,0 +1,52 @@
+{
+  "Code": "00000000",
+  "Message": "成功",
+  "PostDataCount": "9",
+  "PostDatas": [
+      {
+          "Index": "1",
+          "nicdate": "20221018",
+          "totalCount": "1"
+      },
+      {
+          "Index": "2",
+          "nicdate": "20221020",
+          "totalCount": "1"
+      },
+      {
+          "Index": "3",
+          "nicdate": "20221021",
+          "totalCount": "3"
+      },
+      {
+          "Index": "4",
+          "nicdate": "20221026",
+          "totalCount": "7"
+      },
+      {
+          "Index": "5",
+          "nicdate": "20221027",
+          "totalCount": "1"
+      },
+      {
+          "Index": "6",
+          "nicdate": "20221101",
+          "totalCount": "1"
+      },
+      {
+          "Index": "7",
+          "nicdate": "20221103",
+          "totalCount": "1"
+      },
+      {
+          "Index": "8",
+          "nicdate": "20221116",
+          "totalCount": "3"
+      },
+      {
+          "Index": "9",
+          "nicdate": "20221117",
+          "totalCount": "2"
+      }
+  ]
+}

@@ -1,0 +1,1 @@
+{ "error": [{"Code": "00000000", "Message":"成功"}	],	"data": [{"nirole": "DF050000","niroletype":"SU","nigroup":"人像管理報表S5_系統主管_文件管理報表S5_印鑑管理報表S5_身份證管理報表S5_人員權限管理設定_使用者管理SUC5","hiddenflag":"1"},{"nirole": "系統管理員","niroletype":"SU","nigroup":"人像管理報表S5_系統主管_文件管理報表S5_印鑑管理報表S5_身份證管理報表S5_人員權限管理設定_使用者管理SUC5","hiddenflag":"1"}	]}

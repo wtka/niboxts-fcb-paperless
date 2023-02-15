@@ -1,0 +1,36 @@
+{
+    "error": [
+        {
+            "Code": "00000000",
+            "Message": "成功",
+            "Count": "3",
+            "totalpage": "1"
+        }
+    ],
+    "data": [
+        {
+            "uid": "000UI1",
+            "companycode": "001",
+            "ugroup": "帳號管理員",
+            "uname": "000ui1",
+            "HR": "",
+            "ustatus": "已登入"
+        },
+        {
+            "uid": "000UI2",
+            "companycode": "001",
+            "ugroup": "帳號管理員",
+            "uname": "000ui2",
+            "HR": "分行經理",
+            "ustatus": "已登入"
+        },
+        {
+            "uid": "000UU1",
+            "companycode": "001",
+            "ugroup": "分行主管",
+            "uname": "000uu1",
+            "udate": "",
+            "ustatus": "已登入"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+{ "error": [{"Code": "00000000", "Message":"成功", "Count":"0","totalpage": "1" }	],
+	"data": [{"uid": "httpuser","companycode":"","ugroup":"cn=全有","uname":"","udate":"","niApproveStatus":"","ustatus":"1","res4":"0"},
+            {"uid": "SUPER","companycode":"","ugroup":"SystemAdministrator/系統管理員","uname":"SUPER","udate":"","niApproveStatus":"","ustatus":"1","res4":"1"},
+            {"uid": "testuser010","companycode":"001","ugroup":"建檔人員","uname":"林大大","udate":"","niApproveStatus":"ok","ustatus":"","res4":"2"}	]}

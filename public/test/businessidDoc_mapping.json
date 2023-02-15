@@ -1,0 +1,1 @@
+{ "error": [{"Code": "00000000", "Message":"成功", "Count":"2", "totalpage":"1" }	],	"data": [{"mcode":"A","mname":"存匯","AccGroup":"093_089"},{"mcode":"B","mname":"外匯","AccGroup":"099"}	]}
